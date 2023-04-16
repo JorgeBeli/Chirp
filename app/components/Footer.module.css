@@ -1,0 +1,37 @@
+.footer {
+    background-color: #d7f5f5;
+    padding: 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-inline: 15vw;
+}
+
+.logo {
+    color: #65afee;
+    font-weight: bold;
+    font-style: italic;
+    cursor: pointer;
+}
+
+.sections {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+.sections ul {
+    list-style: none;
+    display: flex;
+}
+
+.sections ul li {
+    margin-left: 1rem;
+    color: #000;
+    cursor: pointer;
+}
+
+.footerTwitter {
+    cursor: pointer;
+}

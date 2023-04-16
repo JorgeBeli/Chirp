@@ -1,0 +1,8 @@
+.separator {
+    height: 1px;
+    width: 20vw;
+    content: "";
+    border-bottom: 1px solid #cecece;
+    margin: auto;
+    margin-bottom: 1rem;
+}

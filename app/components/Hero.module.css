@@ -1,0 +1,81 @@
+.buttonTwitter {
+    background-color: #1da1f2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: .35rem;
+    border-radius: 5px;
+    padding-inline: 2rem;
+    font-weight: bold;
+    letter-spacing: 1px;
+    padding: 1rem 2rem 1rem 2rem;
+    margin-right: 1rem;
+    cursor: pointer;
+    user-select: none;
+}
+
+.buttonTwitter p {
+    color: #fff;
+}
+
+.blueSpan {
+    color: #1f7898;
+    font-weight: bold;
+}
+
+.avatar {
+    margin-left: -1.5rem;
+}
+
+.heroSection {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-inline: 14vw;
+}
+
+.heroSectionImg {
+    width: 30vw;
+    height: 85vh;
+}
+
+.heroText {
+    width: 35vw;
+    margin-right: 1rem;
+}
+
+.buttonTwitterContainer {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
+
+.heroTitle {
+    width: 35vw;
+}
+
+.heroTitle h1 {
+    font-size: 3rem;
+    font-weight: bold;
+    color: #000;
+}
+
+.heroTitle p {
+    color: #7c7c7b;
+    width: 36.5vw;
+}
+
+.heroTextDown {
+    margin-top: 1rem;
+}
+
+.heroTextDown p {
+    color: #7c7c7b;
+}
+
+.learnMoreText {
+    cursor: pointer;
+    user-select: none;
+}

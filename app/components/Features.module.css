@@ -1,0 +1,15 @@
+.featuresWraper {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    margin-inline: 16vw;
+    gap: 2rem;
+    padding-bottom: 2rem;
+}
+
+.featuresTitle {
+    width: 20%;
+    margin: 2rem 0 1rem 16vw;
+    color: #000;
+    font-weight: bold;
+}

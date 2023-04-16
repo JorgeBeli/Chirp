@@ -1,0 +1,50 @@
+.buttonTwitter {
+    background-color: #1da1f2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: .35rem;
+    border-radius: 5px;
+    margin-left: 1rem;
+    padding-inline: 2rem;
+    font-weight: bold;
+    letter-spacing: 1px;
+    padding: 1rem 2rem 1rem 2rem;
+    cursor: pointer;
+    user-select: none;
+}
+
+.buttonTwitter p {
+    color: #fff;
+}
+
+.navList {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+}
+
+.navSections {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem;
+    margin-inline: 15vw;
+}
+
+.navbar ul li {
+    cursor: pointer;
+}
+
+.logo {
+    color: #65afee;
+    font-weight: bold;
+    font-style: italic;
+    cursor: pointer;
+}
